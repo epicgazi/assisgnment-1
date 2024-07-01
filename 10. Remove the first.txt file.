@@ -1,0 +1,3 @@
+git rm first.txt
+git commit -m "Removed first.txt"
+
